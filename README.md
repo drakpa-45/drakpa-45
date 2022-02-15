@@ -3,10 +3,10 @@
 
 - 💬 I am Tech Enthuists, 
 - 📫 I do Graphics Design, Photography/Videography, and Code.
-- 😄 Yeshi Lhendup / ཡེ་ཤེས་ལྷུན་གྲུབ།
+- 😄 Pema Drakpa
 - ⚡ Love Travelling, Trekking and Hiking
 - ✔  I am familiar with C, Java, HTML, CSS, JavaScript,  Python and PHP
-- 💻 Currently Working as a UI/UX Designer at NGN Technologies Private Limited
+- 💻 Currently Working as a Software Developer at NGN Technologies Private Limited
 
 <br />
 

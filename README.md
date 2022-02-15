@@ -5,11 +5,10 @@
 - 📫 I do Graphics Design, Photography/Videography, and Code.
 - 😄 Pema Drakpa
 - ⚡ Love Travelling, Trekking and Hiking
-- ✔  I am familiar with C, Java, HTML, CSS, JavaScript,  Python and PHP
+- ✔  I am familiar with C, Java, HTML, CSS, JavaScript,Typescript,Bootstrap,Angular,Ionic and PHP
 - 💻 Currently Working as a Software Developer at NGN Technologies Private Limited
 
 <br />
-
 
 ### Get in touch with me on: ###
 

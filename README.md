@@ -1,10 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi There !!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
+
+<p align="center">
+  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;I+Am+Full+stack+Developer&center=true&width=380&height=45"></a>
+</p>
+
 
 
 - 💬 I am Tech Enthuists, 
-- 📫 I do Graphics Design, Photography/Videography, and Code.
+- 📫 I do System development and Wedsites.
 - 😄 Pema Drakpa
-- ⚡ Love Travelling, Trekking and Hiking
+- ⚡ Love Travelling, Programming, chatting...
 - ✔  I am familiar with C, Java, HTML, CSS, JavaScript,Typescript,Bootstrap and PHP
 - 💻 Currently Working as a Software Developer at NGN Technologies Private Limited
 

@@ -11,7 +11,7 @@
 - ✔  I am familiar with C, Java, HTML, CSS, JavaScript,Typescript,Bootstrap and PHP
 - 💻 Currently Working as a Software Developer at NGN Technologies Private Limited
 - 💬 Urgent Contact --- 77273204
-- <p align="center">For More INFO ---> <img src="https://giphy.com/stickers/puls-br-pulse-puls-pulsreportage-aEoP60U47mxtxFVC3f" width="28"> </p>
+- <p align="center">For More INFO ---> <img src="https://media.giphy.com/media/aEoP60U47mxtxFVC3f/giphy.gif" width="28"> </p>
 
 <br />
 

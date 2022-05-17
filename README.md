@@ -1,7 +1,7 @@
 <h1 align="center">Hi There !!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
 <p align="center">
-  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+Am+Full+stack+Software+Developer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+Am+Full+stack+Software+Engineer&center=true&width=380&height=45"></a>
 </p>
 
 

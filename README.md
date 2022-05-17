@@ -13,6 +13,9 @@
 - 💬 Urgent Contact --- 77273204
 - <p align="center">For More INFO ---> <img src="https://media.giphy.com/media/aEoP60U47mxtxFVC3f/giphy.gif" width="28"> </p>
 
+<p align="center">
+  <a href="https://github.com/divyashC"><img src="https://media.giphy.com/media/aEoP60U47mxtxFVC3f/giphy.gif/?lines=More+INFO&center=true&width=380&height=45"></a>
+</p>
 <br />
 
 ### Get in touch with me on: ###

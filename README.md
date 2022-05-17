@@ -11,11 +11,11 @@
 - ✔  I am familiar with C, Java, HTML, CSS, JavaScript,Typescript,Bootstrap and PHP
 - 💻 Currently Working as a Software Developer at NGN Technologies Private Limited
 - 💬 Urgent Contact --- 77273204
-- 
 
 <p align="center">
-  For More INFO ---> <img src="https://media.giphy.com/media/aEoP60U47mxtxFVC3f/giphy.gif" width="28">
+  For More INFO <img src="https://media.giphy.com/media/aEoP60U47mxtxFVC3f/giphy.gif" width="28">
 </p>
+
 <br />
 
 ### Get in touch with me on: ###

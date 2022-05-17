@@ -7,7 +7,7 @@
 
 
 - 💬 I am Tech Enthuists, 
-- 📫 I do System development and Wedsites.
+- 📫 I do System development and Websites.
 - 😄 Pema Drakpa
 - ⚡ Love Travelling, Programming, chatting...
 - ✔  I am familiar with C, Java, HTML, CSS, JavaScript,Typescript,Bootstrap and PHP

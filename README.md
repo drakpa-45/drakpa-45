@@ -9,7 +9,8 @@
 - 💬 I am Tech Enthuists, 
 - 📫 I do System development and Websites.
 - ✔  I am familiar with C, Java, HTML, CSS, JavaScript,Typescript,Bootstrap and PHP
-- 💻 Currently Working as a Software Developer at NGN Technologies Private Limited
+- 💻 Currently Working as a Software Engineer at NGN Technologies Private Limited
+-     Current Address : Olakha, Express way, Thimphu, Bhutan
 - 💬 Urgent Contact --- 77273204
 
 <p align="center">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi There !!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
 <p align="center">
-  <a href="https://github.com/divyashC"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+Am+Full+stack+Software+Engineer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/drakpa-45"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+Am+Full+stack+Software+Engineer&center=true&width=380&height=45"></a>
 </p>
 
 
@@ -11,10 +11,10 @@
 - ✔  I am familiar with C, Java, HTML, CSS, JavaScript,Typescript,Bootstrap and PHP
 - 💻 Currently Working as a Software Developer at NGN Technologies Private Limited
 - 💬 Urgent Contact --- 77273204
-- <p align="center">For More INFO ---> <img src="https://media.giphy.com/media/aEoP60U47mxtxFVC3f/giphy.gif" width="28"> </p>
+- 
 
 <p align="center">
-  <a href="https://github.com/divyashC"><img src="https://media.giphy.com/media/aEoP60U47mxtxFVC3f/giphy.gif/?lines=More+INFO&center=true&width=380&height=45"></a>
+  For More INFO ---> <img src="https://media.giphy.com/media/aEoP60U47mxtxFVC3f/giphy.gif" width="28">
 </p>
 <br />
 

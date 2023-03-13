@@ -9,9 +9,10 @@
 - 💬 I am Tech Enthuists, 
 - 📫 I do System development and Websites.
 - ✔  I am familiar with C, Java, HTML, CSS, JavaScript,Typescript,Bootstrap and PHP
-- 💻 Currently Working as a Software Engineer at NGN Technologies Private Limited
--     Current Address : Olakha, Express way, Thimphu, Bhutan
-- 💬 Urgent Contact --- 77273204
+- 💻 Worked as a Software Engineer at NGN Technologies Private Limited
+- 💻  Currently working as Software Engineer At Yangkhor Private Limited
+      Current Address:  KMT Building, Changangkha, Thimphu, Bhutan.
+- 💬 Urgent Contact --- 17818549
 
 <p align="center">
   For More INFO <img src="https://media.giphy.com/media/aEoP60U47mxtxFVC3f/giphy.gif" width="28">

@@ -8,7 +8,7 @@
 
 - 💬 I am Tech Enthuists, 
 - 📫 I do System development and Websites.
-- ✔  I am familiar with C, Java, HTML, CSS, JavaScript,Typescript,Bootstrap and PHP
+- ✔  I am familiar with C, Java, HTML, CSS, JavaScript,Typescript,Bootstrap,react-native,angular,ionic and PHP
 - 💻 Worked as a Software Engineer at NGN Technologies Private Limited
 - 💻 Software Engineer At Yangkhor Private Limited
 - Current Address:  KMT Building, Changangkha, Thimphu, Bhutan.

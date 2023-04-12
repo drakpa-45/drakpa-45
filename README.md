@@ -10,7 +10,7 @@
 - 📫 I do System development and Websites.
 - ✔  I am familiar with C, Java, HTML, CSS, JavaScript,Typescript,Bootstrap and PHP
 - 💻 Worked as a Software Engineer at NGN Technologies Private Limited
-- 💻  Currently working as Software Engineer At Yangkhor Private Limited
+- 💻 Software Engineer At Yangkhor Private Limited
 - Current Address:  KMT Building, Changangkha, Thimphu, Bhutan.
 - 💬 Urgent Contact --- 17818549
 
